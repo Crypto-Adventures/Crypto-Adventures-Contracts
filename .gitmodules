@@ -1,0 +1,3 @@
+[submodule "contracts/Crypto-Adventures-Generation"]
+	path = contracts/Crypto-Adventures-Generation
+	url = https://github.com/Emiller88/Crypto-Adventures-Generation.git
